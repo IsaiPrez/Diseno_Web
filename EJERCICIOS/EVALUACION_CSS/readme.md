@@ -278,5 +278,4 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
           
  Ingresa el link a tu página del proyecto final
  
- ![image](https://user-images.githubusercontent.com/101481084/166966360-5acce64c-ba71-4d69-8d56-81dac7bf3820.png)
-
+  https://isaiprez.github.io/Proyecto-final/
